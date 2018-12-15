@@ -66,7 +66,9 @@ class FrontController extends Controller
         
         return $cars;
     }
-    
+    public function get_about(){
+        return view('pages.about');
+    }
 }
 
 

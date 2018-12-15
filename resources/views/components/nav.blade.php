@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top bg-white nav-border" style="height:80px;">
 
       <div class="container">
-        <a class="img-fluid" href="{{asset('/')}}" > <img src="img/logo2.png"> </a>
+        <a class="img-fluid" href="{{asset('/')}}" > <img src="img/logo12.png" style="height: 60px;"> </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>

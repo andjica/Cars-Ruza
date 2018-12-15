@@ -41,3 +41,19 @@
  .nav-border{
      border-bottom: 2px solid #FF6200; 
  }
+
+ .card-crveni{
+    max-width: 600px; 
+    border:2px solid #343a40;
+
+ }
+ .card-crveni a{
+    color:#FF6200;
+
+ }
+ .font-crveni{
+     color:#FF6200;
+ }
+ .primarna{
+     background-color:#FF6200;
+ }

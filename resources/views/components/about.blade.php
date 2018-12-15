@@ -13,7 +13,7 @@
             <h4>
               <strong style="color:#FF6200;">Zelf een samenstelling maken</strong>
             </h4>
-            <p class="text-faded mb-0 text-white">Stel zelf uw auto samen, zodat u uw perfecte auto krijgt!</p>
+            <p class="text-faded mb-0 text-white">Via DealNL stelt u uw eigen auto zelf samen.</p>
           </div>
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
             <span class="service-icon rounded-circle mx-auto mb-3 bg-white">
@@ -31,9 +31,9 @@
             <h4>
               <strong style="color:#FF6200;">Beste Deal</strong>
             </h4>
-            <p class="text-faded mb-0 text-white">DealNL bied kosteloos de beste deals voor de aanschaf van uw nieuwe auto. U kunt kiezen op basis van uitvoering en nog meer opties.
-              <i class="fa fa-car" style="color:#FF6200;"></i>
-              Zeer mooie optie dit!</p>
+            <p class="text-faded mb-0 text-white">DealNL bied kosteloos de beste deals voor de aanschaf van uw nieuwe auto. U kunt kiezen op basis van uitvoering, prijs en reviews.
+              
+              
           </div>
           <div class="col-lg-3 col-md-6">
             <span class="service-icon rounded-circle mx-auto mb-3 bg-white">

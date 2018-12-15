@@ -50,3 +50,5 @@ Route::get('/all_cars', 'CarsController@index')->name('index');
 Route::get('/discount', 'CarsController@discount');
 Route::post('/update-cost/{id}', 'CarsController@update_cost');
 Route::get('/car-invoice', 'CarsController@car_invoice');
+
+Route::get('/about', 'FrontController@get_about');
