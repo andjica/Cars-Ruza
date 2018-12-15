@@ -1,16 +1,16 @@
-<!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top bg-white nav-border" style="height:80px;">
-
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" style="opacity:0.9;">
       <div class="container">
-        <a class="img-fluid" href="{{asset('/')}}" > <img src="img/logo2.png"> </a>
+        <a class="navbar-brand" href="#"><!--<img src="img/logo12.jpeg" class="img-fluid" style="height:60px;">--> </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-             
-        <li class="nav-item">
+          <li class="nav-item">
           <a class="nav-link linkovi" style="color:#FF6200" href="{{asset('/')}}">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link linkovi" style="color:#FF6200" href="{{asset('/filter')}}">Auto samenstellen</a>
         </li>
         <li class="nav-item">
           <a class="nav-link linkovi" style="color:#FF6200" href="{{asset('/about')}}">Over DealNL</a>
@@ -44,7 +44,4 @@
           </ul>
         </div>
       </div>
-    
     </nav>
-
-   

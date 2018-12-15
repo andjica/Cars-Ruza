@@ -32,3 +32,12 @@
  .text-secondary{color:#ecb807!important}
 
  .logo{height:80px;}
+
+ .linkovi{
+    color:#FF6200;
+    font-weight:900; 
+    font-size:20px;
+ }
+ .nav-border{
+     border-bottom: 2px solid #FF6200; 
+ }
