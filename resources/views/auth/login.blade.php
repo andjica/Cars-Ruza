@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container my-5">
+<div class="container">
     <div class="row" style="margin-top:100px;">
         <div class="col-md-8 col-md-offset-2 my-4">
             <div class="panel panel-default">
@@ -66,4 +66,5 @@
         </div>
 </div>
 </div>
+@include('components.footer')
 @endsection

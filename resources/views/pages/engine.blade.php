@@ -1,13 +1,25 @@
 @extends('template.layout')
 @section('content')
-<div class="holder" style="margin-top: 150px;">
+<div class="maimun" style="margin-top: 150px;">
     <Center>
     <h4>Volg hier uw progressie</h4>
     </center>
-    <div class="progress">
-    <div class="steptwo" style="margin: 0px; padding: 0px; background-color: orange; height: 100px; width: 40%;">
+    <center>
+    <div class="kurac" style="display:inline-block;">
+      <div class="djoka1" style="height: 50px; padding-top:10px; width: 50px; background-color: #ff6200; float:left; border-radius:50%;">
+        <p>1</p>
+    </div>
+    <div class="djoka2" style="height: 50px; padding-top:10px;  width: 50px; background-color: #ff6200; float:left; border-radius:50%;">
+    <p>2</p>
+    </div>
+    <div class="djoka3" style="height: 50px; padding-top:10px;  border:solid #ff6200; width: 50px; background-color: white; float:left; border-radius:50%;">
+    <p>3</p>
+    </div>
+    <div class="djoka4" style="height: 50px; padding-top:10px;  border:solid #ff6200; width: 50px; background-color: white; float:left; border-radius:50%;">
+        <p>4</p>
     </div>
     </div>
+</center>
     </div>
     
     <Br>
@@ -18,7 +30,7 @@
     <h3> Kies uw Motor Type</h3>
     </center>
     <div class="container">
-    <div class="row">
+    <div class="row border rounded p-4">
 {{--     
       @foreach($motors as $motor)
       <div class="col-sm-12">
@@ -36,14 +48,18 @@
       </div>
       @endforeach --}}
       <br>
-      <select name="benzine" id="benzine">
+      <div class="col-lg-3">
+      <img src="{{asset('/')}}img/deco124.png" style=" width: 170px; " class="img-fluid float-right">
+      </div>
+      <div class="col-lg-9 my-4">
+      <select name="benzine" id="benzine" class="custom-select d-block w-100 m-4">
         <option value="Benzine">Benzine</option>
         <option value="Diesel">Diesel</option>
         <option value="Hybrid benzine">Hybrid benzine</option>
         <option value="Hybride diesel">Hybride diesel</option>
         <option value="Elektriesch">Elektriesch</option>
       </select>
-      <select name="type" id="type">
+      <select name="type" id="type" class="custom-select d-block w-100 m-4">
         <option value="1.4">1.4</option>
         <option value="1.6">1.6</option>
         <option value="1.8">1.8</option>
@@ -51,10 +67,10 @@
       </select>
     </div>
     </div>
-    
+</div>
     <center>
       <a href="{{asset('/picker')}}">
-        <button type="button" id="confirm-motor" class="btn btn-outline-warning" style="width: 200px; margin-top:20px;">Volgende</button>
+        <button type="button" id="confirm-motor" class="btn btn-outline" style="width: 200px; background-color:#ff6200; margin-top:20px;">Volgende</button>
       </a>
     </center>
     <script>

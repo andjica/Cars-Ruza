@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-white fixed-top" style="opacity:0.9;">
+<nav class="navbar navbar-expand-lg navbar-dark bg-white fixed-top" >
       <div class="container">
-        <a class="navbar-brand" href="#"><img src="img/logo12.jpeg" class="img-fluid" style="height:60px;"></a>
+        <a class="navbar-brand" href="#"><img src="img/logo125.png" class="img-fluid" style="height:60px;"></a>
         <button class="navbar-toggler" style="background:#FF6200"type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -33,10 +33,7 @@
 
             @else
 
-            <li class="nav-item">
-              <a class="nav-link linkovi" style="color:#FF6200;" href="{{asset('/register')}}">Sign Up</a>
-            </li>
-
+         
             <li class="nav-item">
               <a class="nav-link linkovi" style="color:#FF6200;" href="{{asset('/login')}}">Log in</a>
             </li>

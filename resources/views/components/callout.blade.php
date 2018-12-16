@@ -14,7 +14,7 @@
               <h4 class="card-title">
                 <a href="#" style="color:#FF6200;">Citroen C3 AIRCROSS</a>
               </h4>
-              <p class="card-text"><BR>
+              <p class="card-text" style="color:#ff6200; font-weight:700;"><BR>
 
 ✔	Hoge instap<Br>
 ✔	Nieuw model<BR>
@@ -31,7 +31,7 @@
               <h4 class="card-title" >
                 <a href="#" style="color:#ff6200;">Citroen C3</a>
               </h4>
-              <p class="card-text">
+              <p class="card-text" style="color:#ff6200; font-weight:700;">
              <Br>
 ✔	Nieuw model<Br>
 ✔	Eigenzinnig<BR>
@@ -54,7 +54,7 @@
                 <a href="#" style="color:#ff6200;">Kia Niro</a>
               </h4>
               <BR>
-              <p class="card-text">
+              <p class="card-text" style="color:#ff6200; font-weight:700;">
               ✔	Als (Plug-in) Hybrid leverbaar<BR>
               ✔	Lage co2 uitstoot<BR>
               ✔	7 jaar garantie  <BR>
@@ -74,7 +74,7 @@
               <h4 class="card-title">
                 <a href="#" style="color:#FF6200;">Renault Clio</a>
               </h4>
-              <p class="card-text"><BR>
+              <p class="card-text" style="color:#ff6200; font-weight:700;"><BR>
 
 ✔	Bestseller<Br>
 ✔	Nieuw model<BR>
@@ -92,7 +92,7 @@
               <h4 class="card-title" >
                 <a href="#" style="color:#ff6200;">Fiat Panda</a>
               </h4>
-              <p class="card-text">
+              <p class="card-text" style="color:#ff6200; font-weight:700;">
              <Br>
 ✔	Hoge instap<Br>
 ✔	Ruime stadsauto<BR>
@@ -115,7 +115,7 @@
                 <a href="#" style="color:#ff6200;">Fiat 500</a>
               </h4>
             
-              <p class="card-text">
+              <p class="card-text" style="color:#ff6200; font-weight:700;">
               ✔	Origineel design<BR>
               ✔	Compact<BR>
               ✔	Ook als Cabrio <BR>

@@ -4,47 +4,58 @@
         <div class="row">
 
           <div class="col-md-4 mb-3 mb-md-0">
-            <div class="card py-4 h-20  bg-dark border-white">
+            <div class="card py-4 h-30  bg-white border-white">
               <div class="card-body text-center ">
                 <i class="fas fa-map-marked-alt mb-2 fa-2x" style="color:#ff6200"></i>
                 <h4 class="text-uppercase m-0" style="color:#ff6200">Over DealNL</h4>
                 <hr class="my-4 bg-white">
-                <div class="small text-white">Hoe het werkt</div>
-                <div class="small text-white">Over DealNL</div>
-                <div class="small text-white">Klanten reviews</div>
+                <div class="larger " style="color:#ff6200;">Veel gestelde vragen</div>
+                <div class="larger " style="color:#ff6200;">Algemene voorwaarden</div>
+                <div class="larger " style="color:#ff6200;">Inloggen</div>
+                <div class="larger " style="color:#ff6200;">Over ons</div>
+
+
               </div>
             </div>
           </div>
 
           <div class="col-md-4 mb-3 mb-md-0">
-            <div class="card py-4 h-20 bg-dark border-white">
+            <div class="card py-4 h-30 bg-white border-white">
               <div class="card-body text-center">
                 <i class="fas fa-envelope mb-2 fa-2x" style="color:#ff6200"></i>
                 <h4 class="text-uppercase m-0" style="color:#ff6200">Klantenservice</h4>
                 <hr class="my-4 bg-white">
-                <div class="small text-white">
-                <a href="#" class="text-white">Veel gestelde vragen</a><Br>
-                <a href="#" class="text-white">Contact</a>
-                 
+                <div class="larger " style="color:#ff6200;">
+                <div class="larger " style="color:#ff6200;">BTW nummer: 859309988B01
+
+
+
+</div>
+                <div class="larger" style="color:#ff6200;">KVK: 72987103</div>
+                <div class="larger" style="color:#ff6200;" >
+Vestigingsnummer: 000041063333</div>
+                 <BR>
                 </div>
               </div>
             </div>
           </div>
 
           <div class="col-md-4 mb-3 mb-md-0">
-            <div class="card py-4 h-20 bg-dark border-white">
+            <div class="card py-4 h-30 bg-white border-white">
               <div class="card-body text-center">
                 <i class="fas fa-mobile-alt mb-2 fa-2x" style="color:#ff6200"></i>
                 <h4 class="text-uppercase m-0" style="color:#ff6200">Informatie</h4>
                 <hr class="my-4 bg-white">
-                <div class="small text-white">Privacy beleid</div>
-                <div class="small text-white">Algemene voorwaarden</div>
-                <div class="small text-white">Disclaimer</div>
-                <div class="small text-white">Cookieregeling</div>
+                <div class="larger " style="color:#ff6200;">Privacy beleid</div>
+                <div class="larger " style="color:#ff6200;">Algemene voorwaarden</div>
+                <div class="larger " style="color:#ff6200;">Disclaimer</div>
+                <div class="larger " style="color:#ff6200;">Cookieregeling</div>
               </div>
             </div>
           </div>
         </div>
+
+
 
 
       </div>
@@ -60,12 +71,17 @@
           </li>
           <li class="list-inline-item">
             <a class="social-link rounded-circle text-white mr-3" href="#" style="background-color:#ff6200;">
-              <i class="fab fa-twitter" style="padding-top:20px; color:white;"></i>
+              <i class="fab fa-instagram" style="padding-top:20px; color:white;"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="social-link rounded-circle text-white mr-3" href="#" style="background-color:#ff6200;">
+              <i class="fab fa-youtube" style="padding-top:20px; color:white;"></i>
             </a>
           </li>
           <li class="list-inline-item">
             <a class="social-link rounded-circle text-white" href="#" style="background-color:#ff6200;">
-              <i class="fa fa-thumbs-up" style="padding-top:20px; color:white;"></i>
+              <i class="fab fa-twitter" style="padding-top:20px; color:white;"></i>
             </a>
           </li>
         </ul>
