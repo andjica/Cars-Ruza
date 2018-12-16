@@ -30,7 +30,7 @@
 
 
     <div class="col-lg-4 my-4" style="">
-    <img src="{{asset('/')}}img/deco125.png" style="height:170px; float:left; margin-left: -30px;" class="img-fluid">
+    <img src="{{asset('/')}}img/deco125.png" style="height:170px;" class="img-fluid float-right">
 </div>
     <div class="col-lg-8 my-4" style="">
   
