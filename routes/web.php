@@ -52,3 +52,12 @@ Route::post('/update-cost/{id}', 'CarsController@update_cost');
 Route::get('/car-invoice', 'CarsController@car_invoice');
 
 Route::get('/about', 'FrontController@get_about');
+
+
+//Admin-panel
+Route::get('/admin', 'ManageController@get_admin')->name('admin-panel');
+Route::get('/add_cars', 'ManageController@add_cars')->name('admin-add');
+
+//Managing
+Route::get('/manage_engine_type', 'ManageController@manage_enegine_type')->name("manage_type");
+Route::get('/manage_colors', 'ManageController@manage_colors')->name("manage_colors");
